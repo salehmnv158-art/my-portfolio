@@ -1,0 +1,703 @@
+/*? Width: 992px to 1280px */  /* Done */
+
+@media only screen and (max-width: 1280px) and (min-width: 992px){
+    /* Head */
+    
+    .nav-bar{
+        width: 95%;
+    }
+    .nav-bar-left{
+        font-size: 19px;
+    }
+    .nav-bar-same{
+        font-size: 17px;
+    }
+    .alt-bar-head{
+        width: 93%;
+    }
+    .nav-scr{
+        width: 90%;
+    }
+    .nav-scr-top{
+        font-size: 17px;
+    }
+    .nav-scr-line{
+        width: 60px;
+    }
+    .nav-scr-name{
+        font-size: 70px;
+    }
+    .nav-scr-job{
+        font-size: 35px;
+    }
+    .nav-scr-number, .nav-scr-email{
+        font-size: 20px;
+    }
+    .nav-scr-1 i, .nav-scr-2 i{
+        font-size: 24px;
+    }
+    .nav-scr-left{
+        width: 40%;
+    }
+    .nav-scr-right{
+        width: 60%;
+    }
+    .nav-scr-photo{
+        width: 100%;
+        height: auto;
+    }
+
+    /* Body */
+
+    .about-me{
+        width: 90%;
+        margin: 200px 0px 0px 0px;
+    }
+    .a-m-top{
+        font-size: 18px;
+    }
+    .a-m-script{
+        font-size: 50px;
+    }
+    .a-m-bottom-left{
+        width: 51%;
+        font-size: 35px;
+    }
+    .a-m-bottom-left div{
+        width: 76%;
+    }
+    .a-m-bottom-right{
+        width: 49%;
+    }
+    .a-m-bottom-right-top{
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .a-m-bottom-right-bottom{
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .what-i-do{
+        width: 90%;
+    }
+    .what-i-do-top h1{
+        font-size: 50px;
+    }
+    .what-i-do-script{
+        width: 100%;
+        font-size: 17px;
+        line-height: 28px;
+    }
+    .responsive-design, .customize-templates, .ux-ui-design{
+        width: 29%;
+    }
+    .responsive-design, .customize-templates{
+        padding-right: 3%;
+    }
+
+    .customize-templates, .ux-ui-design{
+        padding-left: 3%;
+    }
+    .interval-photo{
+        width: 100%;
+        height: 65vh;
+    }
+    .growth{
+        width: 90%;
+    }
+    .learning{
+        width: 65%;
+    }
+    .learning-top{
+        font-size: 35px;
+    }
+    .learning-script{
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .growth-line-1{
+        width: 40%;
+    }
+    .why-work{
+        width: 100%;
+    }
+    .why-work-top{
+        font-size: 35px;
+    }
+    .why-work-script{
+        width: 100%;
+    }
+    .why-work-script div{
+        width: 31%;
+    }
+    .growth-line-2{
+        width: 26%;
+    }
+    .portfolio{
+        width: 90%;
+    }
+    .portfolio-name{
+        font-size: 35px;
+    }
+    .porfolio-photos{
+        width: 90%;
+        gap: 20px;
+        margin: 0px auto 200px auto;
+    }
+    .port-ph-top{
+        width: 90%;
+        gap: 4%;
+    }
+    .port-ph-bottom{
+        width: 90%;
+        gap: 4%;
+    }
+    .restaurant{
+        width: 60%;
+        height: auto;
+    }
+    .hope{
+        width: 60%;
+        height: auto;
+    }
+    .nature{
+        width: 60%;
+        height: auto;
+    }
+    .mountain{
+        width: 60%;
+        height: auto;
+    }
+
+    /* Footer */
+
+    #foot{
+        height: 521px;
+    }
+    .foot-top{
+        width: 95%;
+        height: 400px;
+    }
+    .f-top-left{
+        width: 50%;
+    }
+    .f-top-based{
+        font-size: 24px;
+    }
+    .f-top-link{
+        font-size: 80px;
+    }
+    .f-top-right{
+        width: 50%;
+    }
+    .f-contact-head, .f-services-head{
+        font-size: 23px;
+    }
+    .f-contact-links, .f-services-links{
+        font-size: 17px;
+    }
+    .foot-bottom{
+        height: 120px;
+        font-size: 17px;
+    }
+}
+
+/*? Width: 768px to 992px */ /* Done */
+
+@media only screen and (max-width: 992px) and (min-width: 768px) {
+    /* Head */
+    
+    .nav-bar{
+        width: 91%;
+    }
+    .nav-bar-left{
+        font-size: 17px;
+    }
+    .nav-bar-same{
+        font-size: 15px;
+    }
+    .alt-bar-head{
+        width: 90%;
+    }
+    .activate-arrows{
+        margin: 1px 0px 0px 6px;
+    }
+    .activate-arrows div{
+        font-size: 17px;
+    }
+    .nav-scr{
+        width: 86%;
+    }
+    .nav-scr-top{
+        font-size: 15px;
+    }
+    .nav-scr-line{
+        width: 50px;
+    }
+    .nav-scr-name{
+        font-size: 60px;
+    }
+    .nav-scr-job{
+        font-size: 28px;
+    }
+    .nav-scr-number, .nav-scr-email{
+        font-size: 19px;
+    }
+    .nav-scr-1 i, .nav-scr-2 i{
+        font-size: 22px;
+    }
+    .nav-scr-left{
+        width: 40%;
+    }
+    .nav-scr-right{
+        width: 60%;
+    }
+    .nav-scr-photo{
+        width: 100%;
+        height: auto;
+    }
+
+    /* Body */
+
+    .about-me{
+        width: 86%;
+    }
+    .a-m-top{
+        font-size: 16px;
+    }
+    .a-m-script{
+        font-size: 44px;
+    }
+    .a-m-bottom-left{
+        width: 51%;
+        font-size: 28px;
+    }
+    .a-m-bottom-left div{
+        width: 76%;
+    }
+    .a-m-bottom-right{
+        width: 49%;
+    }
+    .a-m-bottom-right-top{
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .a-m-bottom-right-bottom{
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .what-i-do{
+        width: 86%;
+    }
+    .what-i-do-top h1{
+        font-size: 44px;
+    }
+    .what-i-do-script{
+        width: 100%;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .responsive-design, .customize-templates, .ux-ui-design{
+        width: 29%;
+    }
+    .responsive-design, .customize-templates{
+        padding-right: 3%;
+    }
+
+    .customize-templates, .ux-ui-design{
+        padding-left: 3%;
+    }
+    .interval-photo{
+        width: 100%;
+        height: 55vh;
+    }
+    .growth{
+        width: 86%;
+    }
+    .learning{
+        width: 65%;
+    }
+    .learning-top{
+        font-size: 28px;
+    }
+    .learning-script{
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .growth-line-1{
+        width: 40%;
+    }
+    .why-work{
+        width: 100%;
+    }
+    .why-work-top{
+        font-size: 28px;
+    }
+    .why-work-script{
+        width: 100%;
+    }
+    .why-work-script div{
+        width: 31%;
+    }
+    .growth-line-2{
+        width: 26%;
+    }
+    .portfolio{
+        width: 86%;
+    }
+    .portfolio-name{
+        font-size: 28px;
+        margin: 0px 0px 50px 0px;
+    }
+    .porfolio-photos{
+        width: 86%;
+        gap: 20px;
+        margin: 0px auto 200px auto;
+    }
+    .port-ph-top{
+        width: 86%;
+        gap: 4%;
+    }
+    .port-ph-bottom{
+        width: 86%;
+        gap: 4%;
+    }
+    .restaurant{
+        width: 60%;
+        height: auto;
+    }
+    .hope{
+        width: 60%;
+        height: auto;
+    }
+    .nature{
+        width: 60%;
+        height: auto;
+    }
+    .mountain{
+        width: 60%;
+        height: auto;
+    }
+
+    /* Footer */
+
+    #foot{
+        height: 521px;
+    }
+    .foot-top{
+        width: 91%;
+        height: 400px;
+    }
+    .f-top-left{
+        width: 50%;
+    }
+    .f-top-based{
+        font-size: 20px;
+    }
+    .f-top-link{
+        font-size: 65px;
+    }
+    .f-top-right{
+        width: 50%;
+    }
+    .f-contact-head, .f-services-head{
+        font-size: 20px;
+    }
+    .f-contact-links, .f-services-links{
+        font-size: 16px;
+    }
+    .foot-bottom{
+        height: 120px;
+        font-size: 16px;
+    }
+}
+
+/*? Width: to 768px */ /* Done */
+
+@media only screen and (max-width: 768px){
+    /* Head */
+    
+    #head{
+        height: auto;
+    }
+    .nav-bar{
+        width: 91%;
+    }
+    .nav-bar-left{
+        font-size: 17px;
+    }
+    .nav-bar-same{
+        font-size: 15px;
+    }
+    .alt-bar-same{
+        background-color: rgb(245, 247, 250);
+    }
+    .alt-bar{
+        width: 100%;
+    }
+    .activate-arrows{
+        margin: 1px 0px 0px 6px;
+    }
+    .activate-arrows div{
+        font-size: 17px;
+    }
+    .nav-scr{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 86%;
+        margin: 50px 0px 0px 0px;
+        gap: 50px;
+    }
+    .nav-scr-left{
+        width: 100%;
+        align-items: center;
+    }
+    .nav-scr-right{
+        width: 100%;
+    }
+    .nav-scr-top{
+        font-size: 15px;
+    }
+    .nav-scr-line{
+        width: 50px;
+        margin: 20px 0px 30px 0px;
+    }
+    .nav-scr-name{
+        font-size: 50px;
+    }
+    .nav-scr-job{
+        font-size: 28px;
+        margin: 25px 0px 0px 0px;
+    }
+    .nav-scr-1{
+        margin: 40px 0px 20px 0px;
+    }
+    .nav-scr-number, .nav-scr-email{
+        font-size: 19px;
+    }
+    .nav-scr-1 i, .nav-scr-2 i{
+        font-size: 22px;
+    }
+
+    /* Body */
+
+    .about-me{
+        width: 92%;
+        margin: 100px 0px 0px 0px;
+    }
+    .a-m-top{
+        font-size: 16px;
+    }
+    .a-m-script{
+        font-size: 34px;
+    }
+    .a-m-bottom{
+        display: flex;
+        flex-direction: column;
+    }
+    .a-m-bottom-left{
+        width: 100%;
+        font-size: 28px;
+    }
+    .a-m-bottom-left div{
+        width: 100%;
+    }
+    .a-m-bottom-right{
+        width: 100%;
+    }
+    .a-m-bottom-right-top{
+        font-size: 16px;
+        line-height: 25px;
+        margin: 30px 0px 30px 0px;
+    }
+    .a-m-bottom-right-bottom{
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .what-i-do{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        width: 92%;
+        margin: 150px 0px 100px 0px;
+    }
+    .what-i-do-top h1{
+        font-size: 44px;
+    }
+    .what-i-do-script{
+        width: 100%;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .what-i-do-bottom{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .responsive-design, .customize-templates, .ux-ui-design{
+        width: 92%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .res-design-right, .cust-template-right, .ux-ui-right{
+        margin: 0px;
+    }
+    .responsive-design, .customize-templates{
+        padding: 0px 0px 50px 0px;
+        margin: 0px 0px 50px 0px;
+        border-bottom: #c5cdda solid 1px;
+        border-right: 0px;
+    }
+    .res-design-left, .cust-template-left, .ux-ui-left{
+        margin: 0px 0px 20px 0px;
+        font-size: 22px;
+    }
+    .ux-ui-design{
+        padding: 0px;
+    }
+    .res-1, .cust-1, .ux-ui-1{
+        font-size: 20px;
+    }
+    .res-2, .cust-2, .ux-ui-2{
+        font-size: 15px;
+    }
+    .interval-photo{
+        width: 100%;
+        height: 70vh;
+    }
+    .growth{
+        width: 92%;
+    }
+    .learning{
+        width: 92%;
+    }
+    .learning-top{
+        font-size: 26px;
+    }
+    .learning-script{
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .growth-line-1{
+        width: 40%;
+    }
+    .why-work{
+        width: 92%;
+    }
+    .why-work-top{
+        font-size: 26px;
+    }
+    .why-work-script{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .why-work-script div{
+        width: 100%;
+        font-size: 16px;
+    }
+    .why-work-scr-2{
+        border-left: #b7bcc4 solid 0px;
+        border-right: #b7bcc4 solid 0px;
+        border-bottom: #b7bcc4 solid 1px;
+        border-top: #b7bcc4 solid 1px;
+        padding: 40px 0px 40px 0px;
+    }
+    .growth-line-2{
+        width: 40%;
+    }
+    .portfolio{
+        width: 92%;
+    }
+    .portfolio-name{
+        font-size: 28px;
+        margin: 0px 0px 50px 0px;
+    }
+    .porfolio-photos{
+        width: 92%;
+        gap: 20px;
+        margin: 0px auto 100px auto;
+    }
+    .port-ph-top{
+        width: 92%;
+        gap: 4%;
+    }
+    .port-ph-bottom{
+        width: 92%;
+        gap: 4%;
+    }
+    .restaurant{
+        width: 60%;
+        height: auto;
+    }
+    .hope{
+        width: 60%;
+        height: auto;
+    }
+    .nature{
+        width: 60%;
+        height: auto;
+    }
+    .mountain{
+        width: 60%;
+        height: auto;
+    }
+
+    /* Footer */
+
+    #foot{
+        height: 671px;
+    }
+    .foot-top{
+        width: 96%;
+        height: 550px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .f-top-left{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .f-top-based{
+        font-size: 20px;
+    }
+    .f-top-link{
+        font-size: 50px;
+    }
+    .f-top-right{
+        margin: 20px 0px 0px 0px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .f-top-contact, .f-top-services{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0px;
+    }
+    .f-top-contact{
+        margin-bottom: 20px;
+    }
+    .f-contact-head, .f-services-head{
+        font-size: 20px;
+    }
+    .f-contact-links, .f-services-links{
+        font-size: 16px;
+    }
+    .foot-bottom{
+        height: 120px;
+        font-size: 16px;
+    }
+}
