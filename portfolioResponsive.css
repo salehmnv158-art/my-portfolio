@@ -426,6 +426,9 @@
     .nav-bar-left{
         font-size: 17px;
     }
+    .nav-scr-name{
+        text-align: center;
+    }
     .nav-bar-same{
         font-size: 15px;
     }
@@ -701,3 +704,4 @@
         font-size: 16px;
     }
 }
+
